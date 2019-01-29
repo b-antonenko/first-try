@@ -1,0 +1,134 @@
+<!--font-family: 'Montserrat', sans-serif;-->
+<!--font-family: 'Maven Pro', sans-serif;-->
+head {
+ font-family: 'Pacifico', cursive;
+}
+
+.hero {
+  font-family: 'Pacifico', cursive;
+  height: 30px;
+  min-height: 250px;
+  background-size: cover;
+  background-position: 50% 100%;
+
+}
+.container {
+  position: relative;
+}
+.header {
+  position: relative;
+  top: 50px;
+  bottom: 0;
+  left: 0px;
+}
+.shopno {
+  float:left;
+  font-weight: bold;
+margin-top: 20px;
+  margin-left: 20px;
+  padding-top: 5px;
+height: 25px;
+width: 85px;
+text-align: center;
+  border-style: solid;
+
+}
+.number {
+  float:right;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+.main-text {
+  font-family: 'Maven Pro', sans-serif;
+  text-transform: uppercase;
+  text-shadow: 10px 0px 10px grey;
+  text-align: center;
+  font-size: 45px;
+  float: center;
+}
+.nav1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70%;
+  margin: 10 auto;
+
+}
+
+body {
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+.about_us {
+  background-color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+.text-a {
+  background-color: #ffffff;
+  width: 497px;
+  height: 497px;
+  float: right;
+  line-height: 30px;
+  margin-right: 35px;
+  padding-top: 25px;
+  }
+.block1 {
+  background-color: #ffffff;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  justify-content: center;
+
+}
+.cons_img {
+  background-color: #ffffff;
+  text-align: center;
+  width: 396px;
+  height: 490;
+  margin-left: 100px;
+
+}
+.our-work {
+  font-style: bold;
+  background-color: #f8fafa;
+  height: 900px;
+  position: relative;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.team {
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.team_photo {
+  margin-bottom: 25px;
+}
+.button {
+  height: 40px;
+  width: 100px;
+  color: grey;
+  font-family: 'Pacifico', cursive;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  border-color: grey;
+  border-style: solid;
+  margin-left: 617px;
+}
+.footer {
+  margin-top: 75px;
+  height: 200px;
+  background-color: #f8fafa;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 18px;
+
+
+}
